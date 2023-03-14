@@ -1,1 +1,1 @@
-# software-eng-internship-guide
+# Software Engineering Internship Guide
