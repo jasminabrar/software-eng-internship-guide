@@ -88,13 +88,42 @@ From a variety of sources, and personal experience, working at a small/medium si
 
 
 ## Start-Ups
+Working in startups is, in a certain sense, a high-risk, high-reward game. But it all depends on who you are, and what you are looking for in a company. 
+A good thing about startups is that often you will not find the same style of interviewing as big, medium or even small companies. 
+Most of the information comes from experience here, with some research.
 
-### Specific Leetcode Questions
+### Specific Leetcode and Behavioural Questions
 
-### Specific Behavioural Questions
+No leetcode questions! Or at least, often there are none or they are not the focal point of an interview (exceptions do apply: if they are hiring you specifically for the contributions you can make regarding algorithms, you may get tested on your knowledge). Startups are “companies in the process of starting up”, and they know they usually have less to offer than established companies. But also, a person that prefers to follow specific instructions and work highly-managed tasks in bigger groups may not be a right fit for a startup. 
+Startups want someone that is capable of handling multiple projects at once, often jumping from one to the other, as well as being capable of good collaboration and thinking outside the box. That is why it is less common to be presented with leetcode questions, especially if you have limited experience; they are willing to let you grow with the company. They put much more focus on behaviour.
+
+Specific behavioural questions you may get are:
+
+- Are you able to work on multiple tasks at once?
+- Would you say you are a good worker under-pressure?
+Startups are often working under a time limit (due to budget constraints), and so you will need to be able to work fast and possibly put extra hours for the good of the company. They don’t want you to work extra time (hopefully!) and that is why they want someone that works fast under pressure. 
+- Why did you decide to apply for this job, rather than a bigger company?  
+For such questions, it is important you prepare yourself on the market the startup is targeting; they don’t expect you to know about the values of the companies or their work, since the startup may not even have a public website yet; but they want to know you are passionate about the problem they are targeting.
+- “What do you think we could give you as a company in terms of your professional experience?”
+This is also a way to mask a question about “how long would you be willing to stay with us”. Startups are the companies that invest the most in relation to their small budget into hiring young workers and train them; they often look to hire people that are willing to stay working with them after the internship ends.
 
 ### Salary
+The average hourly wage of a software engineering intern at a startup is usually a bit lower than what you would get at an already-established company. For an intern, you may expect anything between $18.50 to $23 an hour. To counterbalance this, you may find that the company will offer you a set amount of shares per month that, if and when the company gets successful and goes public (if that is their goal), you will be able to turn into stocks at a discounted “symbolic” price (usually 0.10 cents per share) and sell them for the current market value (which is usually above 30 cents and around a dollar). This could turn into a significant money bonus in the future.
+However, you can expect a bit more flexibility in terms of hours, and you will connect a lot with the other members of the team, which usually results in social hangouts. 
+
 
 ### Hiring process
 
+For startups, the number one way of being hired is through your network. Since startups need trustworthy and competent people, people that the leader needs to make a bet on, they will go first for people that are recommended by trusted friends, then coworkers, and so on.
+You may also find some offers on LinkedIn and similar services, but that is more rare.
+So, building a network is essential if you plan to get to work in a startup.
+After you get contacted, usually via email or phone, you will get a first interview, which will heavily focus on behavioral questions and your experience. You may get a couple of questions on how you would approach a particular problem, but these really are not about your technical skills, and more to your approach to problems and teamwork.
+
+If the interview goes well, you will be contacted a bit later with the final decision.
+
+
 ### Work Culture
+
+
+A unique aspect of startups is that, depending on the size and your role, you can help actively shape the workplace culture. You will get the chance to hang out closely with tour colleagues, and you will probably be in contact often with the "higher-ups". With anything from 3 to 20 employees, it will be a very useful opportunity for you to network, even if the startup does not end up getting anywhere. 
+
