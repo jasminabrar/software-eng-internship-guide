@@ -43,6 +43,10 @@ In addition to the general behavioral questions. Many of these companies have "g
 For example, Amazon has their [Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) and Meta has their [Core Values](https://www.metacareers.com/facebook-life/). It is a very good idea to go through each of these values and come up with stories/answers that showcase how you embody them.
 
 ### Salary:
+Intern:
+Usually around $40-$50/hour, totalling around $7500 - $9000/month. In case you are required to move to a different city, these companies provide a relocation stipend and/or sometimes even corporate housing. 
+
+Full Time:
 The compensation stucture for these companies usually involves 3 components: 
 1. A base salary: ~ $100k - 120k
 2. Signing bonus (for first 1-2 years): ~$20k - 40k
