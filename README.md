@@ -76,7 +76,7 @@ The behavioral questions you will be asked in your interview will be similar to 
 
 ### Salary
 
-The average hourly wage of a software engineering intern at a small/medium sized company is around $25/hour or $4000/month. Some companies will also offer you a sign on bonus. Small/medium sized companies do not have extensive benefits for their interns, and depending on the company you are working for you may or may not be paid for vacation days. 
+The average hourly wage of a software engineering intern at a small/medium sized company is around $25/hour or $4000/month. Some companies will also offer you a sign on bonus of around $1000 to $2000. Small/medium sized companies do not have extensive benefits for their interns, and depending on the company you are working for you may or may not be paid for vacation days. 
 
 ### Hiring process
 
